@@ -1,0 +1,29 @@
+{
+    "data" :{
+        "firstName":"Mytheen",
+        "lastName":"S"
+    } , 
+    "auth":{
+        "createdTimestamp": 1588880747548,
+        "username": "altruist.curio@gmail.com",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Mytheen",
+        "lastName": "S",
+        "email": "altruist.curio@gmail.com",
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0,
+        "access": {
+            "manageGroupMembership": true,
+            "view": true,
+            "mapRoles": true,
+            "impersonate": true,
+            "manage": true
+        },
+        "realmRoles": []
+    }, 
+    "notify":{},
+    "filestore":{}
+}
